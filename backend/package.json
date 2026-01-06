@@ -11,8 +11,11 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@clerk/express": "^1.7.60",
+    "cloudinary": "^2.8.0",
     "dotenv": "^17.2.3",
     "e-commerce-mobile-app-with-react-native": "file:..",
-    "express": "^5.2.1"
+    "express": "^5.1.0",
+    "mongoose": "^8.19.3"
   }
 }
