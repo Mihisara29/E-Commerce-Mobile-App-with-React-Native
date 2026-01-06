@@ -12,6 +12,7 @@
   "description": "",
   "dependencies": {
     "dotenv": "^17.2.3",
+    "e-commerce-mobile-app-with-react-native": "file:..",
     "express": "^5.2.1"
   }
 }
